@@ -6,6 +6,7 @@ this repository contains no code, but Tickets and Discussions for the developmen
 
 Other places of interest:
 
+- The AppTelemetry [Swift Client](https://github.com/AppTelemetry/SwiftClient) for inclusion into your app
 - Check out the [Boards](https://github.com/orgs/AppTelemetry/projects) for the current pipeline of features
 - If you prefer real-time conversation, AppTelemetry also has a [Slack](https://apptelemetry.io/pages/slack.html)!
 
